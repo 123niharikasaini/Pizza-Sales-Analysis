@@ -40,14 +40,14 @@ Sales metrics: quantity, unit_price, total_price
    
 ### Dashboard Components
 
-1. Sales Trends Analysis
+###### Sales Trends Analysis
 1. Bar chart for daily order trends
 2. Line chart for hourly order patterns
-2. Category & Size Insights
+###### Category & Size Insights
 1. Donut chart showing % of sales by pizza category
 2. Pie chart showing % of sales by pizza size
 3. Funnel chart representing pizzas sold by category
-3. Product Performance
+###### Product Performance
 1. Top 5 best-selling pizzas (horizontal bar chart)
 2. Bottom 5 least-selling pizzas (horizontal bar chart)
 

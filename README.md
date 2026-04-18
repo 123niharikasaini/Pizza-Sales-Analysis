@@ -61,7 +61,7 @@ Sales metrics: quantity, unit_price, total_price
 
 ### Dashboard
 
-
+https://github.com/123niharikasaini/Pizza-Sales-Analysis/blob/main/Snapshot%20of%20HR%20analysis%20Dashboard.png
 
 ### Conclusion
 
